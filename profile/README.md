@@ -9,7 +9,7 @@ Long-term connection predicts a life that goes well, and most software pulls peo
 ## Published software
 
 - **Together Ledger** — [app.together-ledger.com](https://app.together-ledger.com) — a shared space for two people to hold what happened, return to what matters, and make room for repair.
-- **I'm Home** — [imhome.together-ledger.com](https://imhome.together-ledger.com) — one tap to let your chosen family members know you've reached home.
+- **I'm Home** — [app.imhome.together-ledger.com](https://app.imhome.together-ledger.com) — one tap to let your chosen family members know you've reached home.
 
 ## Publishing
 
